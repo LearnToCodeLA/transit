@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/LearnToCodeLA/marsrocks.png?label=ready&title=Ready)](https://waffle.io/LearnToCodeLA/marsrocks)
 # Mars Rocks app
 
 
